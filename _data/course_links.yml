@@ -1,0 +1,19 @@
+presentations:
+  - title: "Lecture 01 — Intro"
+    url: "files/lecture01.pdf"
+  - title: "Lecture 02 — Intro"
+    url: "files/lecture01.pdf"
+
+textbooks:
+  - title: "Think Python"
+    url: "https://allendowney.github.io/ThinkPython/index.html"
+  - title: "Open Data Structures"
+    url: "https://opendatastructures.org/"
+
+supplementary:
+  - title: "Thonny"
+    url: "https://thonny.org/"
+    note: "Python IDE (Interactive Development Environment)."
+  - title: "Google Colaboratory"
+    url: "https://colab.research.google.com/"
+    note: "Requires a (free) Google account."
