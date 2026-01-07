@@ -1,8 +1,6 @@
 presentations:
-  - title: "Lecture 01 — Intro"
-    url: "files/lecture01.pdf"
-  - title: "Lecture 02 — Intro"
-    url: "files/lecture01.pdf"
+  - title: "Lecture 01 — Introduction"
+    url: "files/CPS 200 - Lecture 01.pdf"
 
 textbooks:
   - title: "Think Python"
@@ -11,6 +9,8 @@ textbooks:
     url: "https://opendatastructures.org/"
 
 supplementary:
+  - title: "Syllabus"
+    url: "files/CPS 200 - Syllabus.pdf"
   - title: "Thonny"
     url: "https://thonny.org/"
     note: "Python IDE (Interactive Development Environment)."
