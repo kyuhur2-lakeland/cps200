@@ -1,6 +1,8 @@
 presentations:
   - title: "Lecture 01 — Introduction"
     url: "files/CPS 200 - Lecture 01.pdf"
+  - title: "Lecture 02 — Introduction"
+    url: "files/CPS 200 - Lecture 02.pdf"
 
 textbooks:
   - title: "Think Python"
