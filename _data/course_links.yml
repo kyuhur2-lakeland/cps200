@@ -49,8 +49,10 @@ textbooks:
     url: "https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap18.ipynb"
 
 quizzes:
-  - titles: "Quiz - Lecture 03"
+  - title: "Quiz - Lecture 03"
     url: "files/Quiz - Lecture 03.pdf"
+  - title: "[ANSWERS] Quiz - Lecture 03"
+    url: "files/[ANSWERS] Quiz - Lecture 03.pdf"
 
 supplementary:
   - title: "Syllabus"
