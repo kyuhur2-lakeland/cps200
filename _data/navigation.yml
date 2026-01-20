@@ -17,6 +17,9 @@ main:
   - title: "Textbooks"
     url: /textbooks/    
 
+  - title: "Quizzes"
+    url: /quizzes/
+
   - title: "Videos"
     url: /videos/    
     
