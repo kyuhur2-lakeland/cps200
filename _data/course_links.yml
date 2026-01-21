@@ -3,8 +3,10 @@ presentations:
     url: "files/CPS 200 - Lecture 01.pdf"
   - title: "Lecture 02 — Programming as a way of Thinking, Variables and Statements"
     url: "files/CPS 200 - Lecture 02.pdf"
-  - title: "Lecture 03 - Variables and Statements, Functions"
-    url: "files/CPS 200 - Lecture 03.pdf"
+  - title: "Lecture 03 — Variables and Statements, Functions"
+    url: "files/CPS 200 — Lecture 03.pdf"
+  - title: "Lecture 04 — Functions and Interfaces"
+    url: "files/CPS 200 — Lecture 04.pdf"
 
 textbooks:
   - title: "Think Python"
@@ -53,6 +55,10 @@ quizzes:
     url: "files/Quiz - Lecture 03.pdf"
   - title: "[ANSWERS] Quiz - Lecture 03"
     url: "files/[ANSWERS] Quiz - Lecture 03.pdf"
+  - title: "Quiz - Lecture 04"
+    url: "files/Quiz - Lecture 04.pdf"
+  - title: "[ANSWERS] Quiz - Lecture 04"
+    url: "files/[ANSWERS] Quiz - Lecture 04.pdf"
 
 supplementary:
   - title: "Syllabus"
