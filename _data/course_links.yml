@@ -4,9 +4,9 @@ presentations:
   - title: "Lecture 02 — Programming as a way of Thinking, Variables and Statements"
     url: "files/CPS 200 - Lecture 02.pdf"
   - title: "Lecture 03 — Variables and Statements, Functions"
-    url: "files/CPS 200 — Lecture 03.pdf"
+    url: "files/CPS 200 - Lecture 03.pdf"
   - title: "Lecture 04 — Functions and Interfaces"
-    url: "files/CPS 200 — Lecture 04.pdf"
+    url: "files/CPS 200 - Lecture 04.pdf"
 
 textbooks:
   - title: "Think Python"
