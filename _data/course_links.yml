@@ -4,9 +4,11 @@ presentations:
   - title: "Lecture 02 — Programming as a way of Thinking, Variables and Statements"
     url: "files/CPS 200 - Lecture 02.pdf"
   - title: "Lecture 03 — Variables and Statements, Functions"
-    url: "files/CPS 200 — Lecture 03.pdf"
+    url: "files/CPS 200 - Lecture 03.pdf"
   - title: "Lecture 04 — Functions and Interfaces"
-    url: "files/CPS 200 — Lecture 04.pdf"
+    url: "files/CPS 200 - Lecture 04.pdf"
+  - title: "Lecture 05 — Conditionals and Recursion"
+    url: "files/CPS 200 - Lecture 05.pdf"
 
 textbooks:
   - title: "Think Python"
@@ -51,14 +53,18 @@ textbooks:
     url: "https://colab.research.google.com/github/AllenDowney/ThinkPython/blob/v3/chapters/chap18.ipynb"
 
 quizzes:
-  - title: "Quiz - Lecture 03"
+  - title: "Quiz — Lecture 03"
     url: "files/Quiz - Lecture 03.pdf"
-  - title: "[ANSWERS] Quiz - Lecture 03"
+  - title: "[ANSWERS] Quiz — Lecture 03"
     url: "files/[ANSWERS] Quiz - Lecture 03.pdf"
-  - title: "Quiz - Lecture 04"
+  - title: "Quiz — Lecture 04"
     url: "files/Quiz - Lecture 04.pdf"
-  - title: "[ANSWERS] Quiz - Lecture 04"
+  - title: "[ANSWERS] Quiz — Lecture 04"
     url: "files/[ANSWERS] Quiz - Lecture 04.pdf"
+  - title: "Quiz — Lecture 05"
+    url: "files/Quiz - Lecture 05.pdf"
+  - title: "[ANSWERS] Quiz — Lecture 05"
+    url: "files/[ANSWERS] Quiz - Lecture 05.pdf"
 
 supplementary:
   - title: "Syllabus"
