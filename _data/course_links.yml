@@ -9,6 +9,8 @@ presentations:
     url: "files/CPS 200 - Lecture 04.pdf"
   - title: "Lecture 05 — Conditionals and Recursion"
     url: "files/CPS 200 - Lecture 05.pdf"
+  - title: "Lecture 06 — Return Values"
+    url: "files/CPS 200 - Lecture 06.pdf"
 
 textbooks:
   - title: "Think Python"
@@ -65,6 +67,10 @@ quizzes:
     url: "files/Quiz - Lecture 05.pdf"
   - title: "[ANSWERS] Quiz — Lecture 05"
     url: "files/[ANSWERS] Quiz - Lecture 05.pdf"
+  - title: "Quiz — Lecture 06"
+    url: "files/Quiz - Lecture 06.pdf"
+  - title: "[ANSWERS] Quiz — Lecture 06"
+    url: "files/[ANSWERS] Quiz - Lecture 06.pdf"
 
 supplementary:
   - title: "Syllabus"
