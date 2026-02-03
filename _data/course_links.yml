@@ -11,6 +11,8 @@ presentations:
     url: "files/CPS 200 - Lecture 05.pdf"
   - title: "Lecture 06 — Return Values"
     url: "files/CPS 200 - Lecture 06.pdf"
+  - title: "Lecture 07 — Iteration and Search"
+    url: "files/CPS 200 - Lecture 07.pdf"
 
 textbooks:
   - title: "Think Python"
@@ -71,6 +73,10 @@ quizzes:
     url: "files/Quiz - Lecture 06.pdf"
   - title: "[ANSWERS] Quiz — Lecture 06"
     url: "files/[ANSWERS] Quiz - Lecture 06.pdf"
+  - title: "Quiz — Lecture 07"
+    url: "files/Quiz - Lecture 07.pdf"
+  - title: "[ANSWERS] Quiz — Lecture 07"
+    url: "files/[ANSWERS] Quiz - Lecture 07.pdf"
 
 supplementary:
   - title: "Syllabus"
